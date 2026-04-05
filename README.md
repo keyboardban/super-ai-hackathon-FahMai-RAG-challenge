@@ -1,11 +1,5 @@
 # 🏆 FahMai RAG Challenge: From Baseline to SOTA Contextual Pipeline
 
-**Author:** Teerachot Saenthong (ID: 601367)  
-**Background:** Computer Science, Chulalongkorn University  
-**Passion:** Machine Learning in Speech & Audio Processing, ASR (Automatic Speech Recognition), and Signal Processing.
-
-> *"For me, the charm of AI isn't about having the model with the most parameters. It's the ability to analyze errors systematically and fine-tune architectures to solve problems precisely under constraints."*
-
 ---
 
 ## 🎯 The Problem Statement
